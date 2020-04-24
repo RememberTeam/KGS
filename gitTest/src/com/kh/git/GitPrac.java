@@ -9,6 +9,8 @@ public class GitPrac {
 		//잘 올라갔겠지?
 		
 		System.out.println("111111");
+		
+		System.out.println("222222");
 	}
 
 }
